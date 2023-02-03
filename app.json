@@ -1,7 +1,7 @@
 {
     "stack": "heroku-20",
     "addons": [
-        "heroku-postgresql:hobby-dev",
+        "heroku-postgresql:essential",
         "heroku-redis:hobby-dev"
     ],
     "buildpacks": [
